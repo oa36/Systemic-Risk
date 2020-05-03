@@ -7,7 +7,7 @@ Dashboard View: https://oa36.shinyapps.io/covar_r_project/
 Please feel free to contribute.
 ____
 
-##To DO##
+## To DO ##
 - [x] Write main functions to estimate CoVaR.
 - [x] Create an initial shiny dashboard.
 - [ ] Clean code and recheck for calculation inaccuracies.
@@ -15,7 +15,7 @@ ____
 
 ___
 
-##References:##
+## References: ##
 
 1.
 Adrian, T., and Brunnermeier, M. K. 2016. “CoVaR,” American Economic Review (106:7), pp. 1705–1741. (https://doi.org/10.1257/aer.20120555).
