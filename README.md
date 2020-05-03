@@ -17,8 +17,6 @@ ___
 
 ## References: ##
 
-1.
-Adrian, T., and Brunnermeier, M. K. 2016. “CoVaR,” American Economic Review (106:7), pp. 1705–1741. (https://doi.org/10.1257/aer.20120555).
+1. Adrian, T., and Brunnermeier, M. K. 2016. “CoVaR,” American Economic Review (106:7), pp. 1705–1741. (https://doi.org/10.1257/aer.20120555).
 
-2.
-Belluzzo, T., “Systemic Risk”, < https://www.mathworks.com/matlabcentral/fileexchange/62482-systemic-r isk >.
+2. Belluzzo, T., “Systemic Risk”, < https://www.mathworks.com/matlabcentral/fileexchange/62482-systemic-r isk >.
